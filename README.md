@@ -18,7 +18,6 @@ Transform your available ingredients into delicious and creative recipes with th
 ## Features
 
 - **Ingredient Input**: Manually enter a list of ingredients to generate matching recipes.
-- **Image Upload**: Upload a photo of your ingredients, and the app recognizes them to suggest recipes.
 - **Nutritional Information**: Get detailed nutritional breakdowns for each recipe.
 
 ## Installation
@@ -58,15 +57,8 @@ Transform your available ingredients into delicious and creative recipes with th
     pip install -r requirements.txt
     ```
 
-5. **Download NLP Models**
 
-    The application uses NLTK and SpaCy for natural language processing. Download the required models:
-
-    ```python
-    python seyup_nlp.py
-    ```
-
-6. **Run the Application**
+5. **Run the Application**
 
     ```bash
     flask run
