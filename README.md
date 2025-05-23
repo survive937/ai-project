@@ -79,7 +79,7 @@ Transform your available ingredients into delicious and creative recipes with th
 1. **Home Page**
 
     - **Enter Ingredients**: Type in the ingredients you have, separated by commas.
-    - **Or Upload Image**: Alternatively, upload an image containing your ingredients.
+   
 
 2. **Generate Recipe**
 
